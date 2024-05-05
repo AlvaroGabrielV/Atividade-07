@@ -1,26 +1,26 @@
-## H1: GIT ##
+## GIT ##
 
 O Git é um sistema de controle de versão que registra as alterações feitas em arquivos ao longo do tempo, facilitando o trabalho em equipe e a gestão de projetos
 
-### H2 Principais Funções: ###
+### Principais Funções: ###
 
     Controle de Versão
     Trabalho em Equipe
     Ramificação (Branching)
     Histórico de Mudanças
 
-## H1: GITHUB ##
+## GITHUB ##
 
 O GitHub é uma plataforma baseada em Git que permite hospedar, compartilhar e colaborar em projetos de desenvolvimento de software de forma colaborativa e eficiente na nuvem
 
-### H2 Principais Funções: ###
+### Principais Funções: ###
     Repositórios Remotos
     Colaboração
     Rastreamento de Problemas
     Integração Contínua
 
 
-#### PARA POSTAR SEU PROJETO ONLINE ####    
+### PARA POSTAR SEU PROJETO ONLINE ###    
 
 **PASSO 1 - Criar uma Conta no GitHub:**
     Se não tem uma, crie uma conta em github.com
